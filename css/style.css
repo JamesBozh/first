@@ -1,0 +1,7 @@
+body {
+    background-color: rgba(100, 150, 200, .7);
+     font-family: "Roboto", "Arial", sans-serif;
+    font-size: 150px;
+    text-align: center;
+    text-shadow: 20px 10px 10px rgba(122, 122, 122, .5);
+}
